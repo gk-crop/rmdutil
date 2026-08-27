@@ -2,6 +2,7 @@
 % Please edit documentation in R/rmdutil.R
 \docType{package}
 \name{rmdutil}
+\alias{rmdutil-package}
 \alias{rmdutil}
 \title{Utility functions to simplify creation of RMarkdown-Documents}
 \description{

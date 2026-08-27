@@ -4,6 +4,5 @@
 #' * Include graphs created by a loop into documents
 #' * Include DiagrammeR graphs in PDF
 #'
-#' @docType package
 #' @name rmdutil
-NULL
+"_PACKAGE"
